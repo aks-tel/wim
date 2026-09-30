@@ -1,9 +1,9 @@
 <p>
-  Lightweight XMPP server.
+  Small, portable and fast XMPP server.
 </p>
 
 ## version 1.x
- - based on Apache vysper 0.7
+ - based on Apache vysper 0.7 (written in Java, is not a neuroslop)
  - provides XMPP plain or TLS connections with authentications: PLAIN, DIGEST-MD5, SCRAM-SHA1 / SHA256
  - provides WebSocket connections (for support web client)
  - built-in web-based management interface (users, rooms, session, logs)
